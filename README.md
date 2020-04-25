@@ -172,3 +172,7 @@ can deliver on the following optional goals:
 - [ ] Add an `ADDI` extension instruction to add an immediate value to a register
 - [ ] Add timer interrupts
 - [ ] Add keyboard interrupts
+
+## Solution
+
+https://github.com/Nov05/Lambda-Computer-Architecture/blob/master/ls8/cpu.py
